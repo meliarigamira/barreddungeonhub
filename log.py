@@ -5,3 +5,5 @@ echo 'done'
 print('ok')
 const v = 1;
 module.exports = v;
+
+# 1a123d
